@@ -13,4 +13,15 @@
       <property
          name="wildcard">false</property>
    </Page>
+   <Page
+      id="Page3">
+      <property
+         name="jspName">/untitled1.jspx</property>
+      <property
+         name="x">444.0</property>
+      <property
+         name="y">95.29883</property>
+      <property
+         name="wildcard">false</property>
+   </Page>
 </SDM>
